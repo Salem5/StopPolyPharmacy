@@ -7,6 +7,6 @@
 
 <body>
 
-<?php include_once $prefix . "templates/nav.php"; ?>
+<?php include_once $_SERVER['DOCUMENT_ROOT'] . "/templates/nav.php"; ?>
 
 <div id="content">
